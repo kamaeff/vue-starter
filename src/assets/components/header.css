@@ -54,7 +54,14 @@ header {
 }
 
 @media (max-width: 768px) {
-  header .profile {
-    display: block;
+  header {
+    .profile {
+      display: block;
+
+      .modal {
+        width: 400px;
+        height: 50vh;
+      }
+    }
   }
 }
