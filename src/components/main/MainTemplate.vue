@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="main">
+  <main>
     <p>#Vue + VitePWA starter pack</p>
-  </div>
+  </main>
 </template>
